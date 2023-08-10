@@ -5,7 +5,7 @@ Requirements for this project are as follows:
 - Kubectl installed.
 
 After provisioning of the pre-requisites:
-- first proviosn eks cluster.
+- first provision of eks cluster.
 - Secondly deploy pac-man web application using terraform commands.
 
 Notes:
