@@ -10,3 +10,6 @@ After provisioning of the pre-requisites:
 
 Notes:
 - This web app is provisioned using one replicas. replicas can be changed according to your need by changing the replicas parameters in the deployment.tf files.
+
+When the deployment is finshed run the following command to get the IP on the web-app
+- kubectl --namespace pac-man get all
